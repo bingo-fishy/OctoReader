@@ -1,6 +1,15 @@
 # OctoReader
 OctoReader is a utility designed by Nicholas Li in MATLAB to read data through a computer’s serial port and graph and process it in real-time. It was designed using MATLAB App Designer, MATLAB version 2021b.
 
+Example usage:
+1. Start program
+2. Begin recording
+3. Set number of inputs to 8
+4. Send 'g'
+5. Use the program to monitor data
+6. Send 's'
+7. Export data
+
 Input Data format:
 255   255   255   uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8 uint8
 
